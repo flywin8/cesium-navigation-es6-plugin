@@ -1,28 +1,28 @@
 {
-  "name": "cesium-navigation-es6",
+  "name": "cesium-navigation-es6-plugin",
   "version": "1.1.7",
-  "description": "cesium-navigation-es6",
+  "description": "cesium-navigation-es6-plugin",
   "main": "viewerCesiumNavigationMixin.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/richard1015/cesium-navigation-es6.git"
+    "url": "git+https://github.com/flywin8/cesium-navigation-es6-plugin.git"
   },
   "dependencies": {
-    "cesium": "^1.72.0",
+    "cesium": "^1.73.0",
     "hammerjs": "^2.0.8",
     "markdown-it": "^8.4.2",
     "markdown-it-sanitizer": "^0.4.3"
   },
   "keywords": [
-    "cesium-navigation"
+    "cesium-navigation-es6-plugin"
   ],
-  "author": "richard",
+  "author": "flywin8",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/richard1015/cesium-navigation-es6/issues"
+    "url": "https://github.com/flywin8/cesium-navigation-es6-plugin/issues"
   },
-  "homepage": "https://github.com/richard1015/cesium-navigation-es6#readme"
+  "homepage": "https://github.com/flywin8/cesium-navigation-es6-plugin#readme"
 }
